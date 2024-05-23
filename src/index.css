@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+    transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;
+    transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    transition-duration: 400ms;
+    transition-delay: 80ms;
+}
+
+#bmw {
+
+    font-family: 'Courier New', Courier, monospace
+}
+
+.splide__pagination__page {
+    background: #000;
+}
+
+.myfont {
+    font-family: 'Times New Roman', Times, serif
+}
+
+/* .splide__arrows:first-child {
+    transform: rotate(180deg);
+} */
