@@ -2,7 +2,14 @@
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+🛠️ Built with:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
++ React for a seamless and dynamic user experience
++ Splide.js for the responsive and autoplaying carousel
++ Framer Motion for smooth and engaging animations
+
+🌟 Features:
+
++ Looping slides with customizable speed and transition effects
++ Auto-changing background colors to enhance visual appeal
++ Detailed descriptions of each BMW model, highlighting their unique features
