@@ -13,3 +13,6 @@ This template provides a minimal setup to get React working in Vite with HMR and
 + Looping slides with customizable speed and transition effects
 + Auto-changing background colors to enhance visual appeal
 + Detailed descriptions of each BMW model, highlighting their unique features
+
+
+By Younes Benhaga
